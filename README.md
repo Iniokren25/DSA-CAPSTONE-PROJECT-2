@@ -34,6 +34,21 @@ Use pivot tables and calculated columns where necessary to answer the following:
 4. Final Task: Dashboard Creation
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
 Creativity.
-### INSIGHT
+
+
+### Project Overview.
+#### This analysis is aimed focus at revealing the sales performance of different category of products at RealTech Insight. The project deployed calculated columns, pivot tables, charts, filter and dashboard to present it findings.
+
+### Data Source
+#### The dataset contains information scraped from Amazon product pages with the following information: Product details, ustomer engagement, having a Total Records: 1,465 rows and TotalFields: 16 columns.
+
+### Data Cleaning:
+- Removed rows with null entries.
+- Trimmed unnneccesary entires.
+- confirmed data types are consistent with requirement.
+
+### summary:
+- Products with highest discount is electronic.
+- P
 
 [Amazon CHARTS FINAL.xlsx](https://github.com/user-attachments/files/21067296/Amazon.CHARTS.FINAL.xlsx)
