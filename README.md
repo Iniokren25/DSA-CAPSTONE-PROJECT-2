@@ -48,7 +48,9 @@ Creativity.
 - confirmed data types are consistent with requirement.
 
 ### summary:
-- Products with highest discount is electronic.
-- P
+- Products with highest discount is Electronics.
+- Product with highest number of reviews is Electronics.
+- Products with ratings is Musical instrument.
+- Discount brought a drop in revenue.
 
 [Amazon CHARTS FINAL.xlsx](https://github.com/user-attachments/files/21067296/Amazon.CHARTS.FINAL.xlsx)
