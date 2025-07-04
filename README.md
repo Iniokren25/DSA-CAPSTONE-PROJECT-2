@@ -34,3 +34,6 @@ Use pivot tables and calculated columns where necessary to answer the following:
 4. Final Task: Dashboard Creation
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
 Creativity.
+### INSIGHT
+
+[Amazon CHARTS FINAL.xlsx](https://github.com/user-attachments/files/21067296/Amazon.CHARTS.FINAL.xlsx)
